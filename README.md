@@ -27,7 +27,7 @@
  7. Twitter developer account
  8. A virtual machine with suffient physical memory for processing.
  
- ### Other software used
+ ### Other softwares used
  1. Virtual Machine from Microsoft azure
  2. Eclipse
 
