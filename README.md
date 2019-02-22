@@ -2,8 +2,8 @@
 
 ### Team
 1) Chakra Pavan Kumar Kota (16283878)
-2) Sai Kumar Reddy
-3) Ajith Reddy
+2) S.V.Sai Kumar Reddy (16280780)
+3) Ajith Reddy Guduru(16282036)
 
  Project Goal: To develop a system that collects, parses and analyzes and visualizes twitter tweets.
 
