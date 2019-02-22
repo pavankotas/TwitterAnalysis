@@ -83,7 +83,9 @@ Now collect the output from hdfs to local file using
 
 ## References:
 http://docs.tweepy.org/en/v3.5.0/api.html
+
 https://stackoverflow.com/
+
 https://youtu.be/EDcXRPKk7Qk
 
 
