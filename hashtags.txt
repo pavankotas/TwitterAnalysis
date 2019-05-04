@@ -1,0 +1,32 @@
+{"location": "Austin, TX"}
+{"location": null}
+{"location": "Ain't none of your concern."}
+{"location": null}
+{"location": null}
+{"location": null}
+{"location": "Anthem, NV"}
+{"location": "Las Vegas"}
+{"location": "Far South Texas, almost Mexico"}
+{"location": "Santa Fe"}
+{"location": null}
+{"location": "MA. "}
+{"location": "Middle America "}
+{"location": "Tallahassee"}
+{"location": null}
+{"location": "Caracas- Venezuela"}
+{"location": "Austin, TX", "language": "en", "timezone": null, "PostedTime": "Wed May 04 21:58:29 +0000 2011"}
+{"location": null, "language": "en", "timezone": null, "PostedTime": "Sat Jul 01 19:12:58 +0000 2017"}
+{"location": "Ain't none of your concern.", "language": "en", "timezone": null, "PostedTime": "Mon Nov 20 17:28:15 +0000 2017"}
+{"location": null, "language": "en", "timezone": null, "PostedTime": "Wed Feb 10 04:11:12 +0000 2016"}
+{"location": null, "language": "en", "timezone": null, "PostedTime": "Thu Apr 05 12:15:33 +0000 2012"}
+{"location": null, "language": "en", "timezone": null, "PostedTime": "Thu Nov 10 04:16:01 +0000 2011"}
+{"location": "Anthem, NV", "language": "en", "timezone": null, "PostedTime": "Tue Aug 13 21:07:46 +0000 2013"}
+{"location": "Las Vegas", "language": "en", "timezone": null, "PostedTime": "Wed Jul 06 05:10:20 +0000 2011"}
+{"location": "Far South Texas, almost Mexico", "language": "en", "timezone": null, "PostedTime": "Thu Jun 09 14:29:43 +0000 2011"}
+{"location": "Santa Fe", "language": "en", "timezone": null, "PostedTime": "Mon Mar 29 04:12:31 +0000 2010"}
+{"location": null, "language": "es", "timezone": null, "PostedTime": "Tue Jul 31 03:45:11 +0000 2012"}
+{"location": "MA. ", "language": "en", "timezone": null, "PostedTime": "Mon Jun 27 23:43:21 +0000 2016"}
+{"location": "Middle America ", "language": "en", "timezone": null, "PostedTime": "Tue Apr 02 12:02:34 +0000 2019"}
+{"location": "Tallahassee", "language": "en", "timezone": null, "PostedTime": "Tue Feb 17 17:22:35 +0000 2009"}
+{"location": null, "language": "en", "timezone": null, "PostedTime": "Wed May 30 02:30:31 +0000 2018"}
+{"location": "Caracas- Venezuela", "language": "es", "timezone": null, "PostedTime": "Sun Oct 20 16:41:56 +0000 2013"}
