@@ -1,0 +1,423 @@
+,Country,Count
+0,Côte d'Ivoire,32
+1,Storbritannia,3
+2,Russia,159
+3,Paraguay,253
+4,Danmark,46
+5,Anguilla,4
+6,تونس,4
+7,Canadá,30
+8,Поранешна Југословенска Република Македонија,26
+9,Negara Brunei Darussalam,1
+10,Việt Nam,39
+11,Yemen,25
+12,Tschechische Republik,1
+13,Islamic Republic of Iran,106
+14,Japonya,1
+15,Senegal,94
+16,Suiza,1
+17,Ελλάς,120
+18,Sweden,88
+19,The Netherlands,183
+20,Schweiz,51
+21,Kenia,1
+22,Singapour,1
+23,Republic of Korea,146
+24,Etats-Unis,31
+25,République populaire de Chine,6
+26,Guyana,6
+27,Spanien,9
+28,Nueva Zelanda,1
+29,Hongrie,1
+30,Eritrea,3
+31,Norge,41
+32,Tonga,1
+33,Djibouti,5
+34,Singapore,207
+35,Malaysia,3390
+36,Italia,1271
+37,Biélorussie,1
+38,Finlande,1
+39,Francia,17
+40,Turkey,657
+41,França,6
+42,Suíça,4
+43,República Checa,2
+44,España,2520
+45,Malawi,18
+46,Espainia,14
+47,Russie,3
+48,Iraq,127
+49,Germany,301
+50,Northern Mariana Islands,1
+51,Turkki,1
+52,Polen,1
+53,Cambodia,30
+54,Afghanistan,10
+55,Suomi,70
+56,Rwanda,14
+57,Maldives,38
+58,Ivory Coast,10
+59,Belgien,1
+60,新加坡,13
+61,Vereinigte Staaten,7
+62,Palau,1
+63,France,1870
+64,Turks and Caicos Islands,6
+65,Greece,90
+66,Hashemite Kingdom of Jordan,70
+67,Kosovo,15
+68,Saksa,1
+69,ישראל,127
+70,Reino de Arabia Saudi,1
+71,Sri Lanka,97
+72,République du Bénin,1
+73,Беларусь,55
+74,台灣,104
+75,Alemanha,7
+76,Republic of the Philippines,8314
+77,Taiwan,48
+78,British Virgin Islands,11
+79,Grèce,1
+80,Dominica,1
+81,المملكة العربية السعودية,1940
+82,Espagne,16
+83,جمهوری اسلامی ایران,45
+84,Algeria,7
+85,Tsjechische Republiek,1
+86,Equatorial Guinea,1
+87,Servië,1
+88,Rumanía,2
+89,Macau,7
+90,Argentina,3559
+91,일본,11
+92,République Togolaise,6
+93,Egitto,2
+94,Angola,27
+95,Belgium,94
+96,پاکستان,5
+97,Italien,1
+98,San Marino,1
+99,East Timor,1
+100,Reino de Marruecos,1
+101,Ecuador,274
+102,Qatar,117
+103,Lesotho,8
+104,Shqipëria,3
+105,Croatie,3
+106,Suisse,28
+107,Antigua y Barbuda,2
+108,België,118
+109,Albania,26
+110,Madagascar,4
+111,Liban,1
+112,Finland,102
+113,Allemagne,2
+114,Mexiko,1
+115,Türkiye,3575
+116,République Démocratique Du Congo,11
+117,New Caledonia,1
+118,Thaïlande,5
+119,المملكة الأردنية الهاشمية,24
+120,Ghana,468
+121,Nicaragua,49
+122,Myanmar,57
+123,Guernsey,3
+124,Peru,343
+125,Bélgica,12
+126,Sierra Leone,9
+127,Benin,11
+128,United States,32663
+129,India,3313
+130,Bahamas,93
+131,Kuwait,480
+132,Malta,21
+133,Roemenië,1
+134,لبنان,18
+135,Somalia,14
+136,Zambie,1
+137,Repubblica Ceca,1
+138,Chile,1079
+139,المملكة المغربية,2
+140,Belgio,3
+141,Ucrânia,2
+142,Äthiopien,1
+143,Nederland,556
+144,Panamá,314
+145,Martinique,26
+146,Royaume-Uni,28
+147,Finlândia,1
+148,Republika ng Pilipinas,50
+149,Alemania,28
+150,대한민국,307
+151,Cayman Islands,3
+152,Norwegen,1
+153,Stati Uniti,6
+154,Isle of Man,8
+155,Rusia,5
+156,Indonesien,4
+157,Burundi,1
+158,Nigeria,2078
+159,Andorra,3
+160,Bolivia,14
+161,भारत,100
+162,Gabon,7
+163,Italy,220
+164,Srbija,68
+165,香港,45
+166,Arménie,3
+167,Sverige,251
+168,Republic of Belarus,20
+169,Malte,1
+170,Comores,2
+171,Guinée,19
+172,Crna Gora,6
+173,Indonésie,3
+174,Suriname,6
+175,Griekenland,5
+176,Polynésie Française,2
+177,Lithuania,42
+178,Republic of Mauritius,8
+179,Norway,77
+180,Turkmenistan,4
+181,Hrvatska,19
+182,Italië,2
+183,Spain,322
+184,مملكة البحرين,37
+185,Cuba,42
+186,Guyane Française,8
+187,الجزائر,13
+188,Emiratos Árabes Unidos,1
+189,Viêtnam,1
+190,Republic of Croatia,25
+191,Mauritania,6
+192,Guadeloupe,14
+193,Algérie,45
+194,Denmark,67
+195,Espanha,11
+196,Nouvelle-Calédonie,1
+197,République centrafricaine,2
+198,Barbados,62
+199,Bangladesh,46
+200,Slovacchia,1
+201,Argentiina,1
+202,Vereinigtes Königreich,5
+203,Kingdom of Saudi Arabia,1320
+204,Ireland,497
+205,Česká republika,48
+206,Liechtenstein,11
+207,Brésil,15
+208,Congo,2
+209,Thailand,875
+210,Noorwegen,1
+211,Россия,1083
+212,Swaziland,9
+213,Emirados Árabes Unidos,1
+214,Argentinien,3
+215,Morocco,20
+216,Monaco,13
+217,Italie,8
+218,Bosnië en Herzegovina,1
+219,Panama,88
+220,Cape Verde,4
+221,Hong Kong,76
+222,Grecia,5
+223,Espanja,1
+224,Ukraine,57
+225,Venezuela,468
+226,الامارات العربية المتحدة,132
+227,Ungarn,2
+228,Tailandia,1
+229,Israel,126
+230,Iceland,32
+231,دولة الكويت,287
+232,Chili,2
+233,Saint Kitts and Nevis,6
+234,Germania,11
+235,Oman,171
+236,French Polynesia,1
+237,USA,1
+238,Lietuva,2
+239,Tunisie,30
+240,Republic of Serbia,93
+241,Cyprus,55
+242,Gibraltar,5
+243,Uruguay,408
+244,Mexico,348
+245,Irland,3
+246,Япония,6
+247,Royaume du Maroc,27
+248,Aruba,5
+249,Japon,10
+250,Zimbabwe,66
+251,Georgia,34
+252,Estonia,4
+253,Montenegro,10
+254,Indonesia,5264
+255,România,7
+256,Verenigd Koninkrijk,4
+257,Saint Vincent and the Grenadines,18
+258,Turkije,2
+259,Mongolia,57
+260,Guatemala,105
+261,Guam,3
+262,Hongarije,4
+263,Eesti,4
+264,Türkei,10
+265,Luxemburg,1
+266,Libya,115
+267,Azerbaijan,44
+268,Lituania,5
+269,Grenada,10
+270,Danimarca,1
+271,نيوزيلندا,1
+272,Polska,296
+273,Former Yugoslav Republic of Macedonia,34
+274,Armenia,5
+275,Tunisia,13
+276,Liberia,12
+277,Yhdistynyt kuningaskunta,1
+278,Honduras,51
+279,Syria,6
+280,Trinidad and Tobago,92
+281,Spanje,16
+282,Mexique,2
+283,Uganda,100
+284,България,16
+285,Emirats Arabes Unis,4
+286,Namibia,41
+287,Singapur,1
+288,ประเทศไทย,1384
+289,Switzerland,61
+290,Espanya,179
+291,Zambia,86
+292,دولة قطر,34
+293,Irlande,1
+294,مصر,247
+295,Ethiopia,9
+296,Jamaica,223
+297,Latvia,14
+298,Suède,1
+299,United Arab Emirates,559
+300,Slovenija,1
+301,Brunei,11
+302,Latvija,9
+303,Saint Lucia,11
+304,Islandia,1
+305,República de Moçambique,8
+306,Republic of Mozambique,11
+307,Pays-Bas,3
+308,Ierland,1
+309,Regno Unito,10
+310,Guinea,1
+311,Canada,1929
+312,República Popular China,4
+313,Hungría,3
+314,Seychelles,1
+315,Kyrgyzstan,33
+316,Grécia,2
+317,Uzbekistan,8
+318,Belgique,84
+319,Czech Republic,37
+320,Deutschland,623
+321,Österreich,85
+322,Taïwan,1
+323,Turquie,3
+324,Brazil,1653
+325,Schweden,1
+326,Belize,3
+327,Kenya,422
+328,Gambia,9
+329,Estados Unidos,472
+330,Lebanon,111
+331,澳門,12
+332,Jepang,7
+333,Lao People's Democratic Republic,8
+334,République Serbe,1
+335,ญี่ปุ่น,10
+336,Svizzera,3
+337,Antigua and Barbuda,23
+338,Syrien,1
+339,Dominican Republic,277
+340,Verenigde Staten,3
+341,Japan,882
+342,Botswana,75
+343,Bosna i Hercegovina,4
+344,Tanzania,146
+345,Україна,76
+346,اليابان,1
+347,Libano,1
+348,Brasile,16
+349,"Bonaire, Sint Eustatius and Saba",11
+350,Canadà,1
+351,中华人民共和国,163
+352,Luxembourg,16
+353,Dinamarca,2
+354,Irlanda,29
+355,New Zealand,17
+356,Danemark,1
+357,Brasil,18350
+358,Reino Unido,47
+359,,154
+360,Bosnia and Herzegovina,12
+361,Greenland,1
+362,Bosnien und Herzegowina,1
+363,Haiti,28
+364,Poland,67
+365,Kanada,1
+366,Portugal,544
+367,Cameroon,59
+368,Australia,328
+369,Holanda,9
+370,People's Republic of China,170
+371,Украина,158
+372,Romania,16
+373,Bulgaria,14
+374,Turchia,1
+375,Itália,8
+376,Camboya,1
+377,Nepal,100
+378,Austria,39
+379,México,2087
+380,Costa Rica,150
+381,Egypt,549
+382,Kazakhstan,34
+383,El Salvador,69
+384,Magyarország,25
+385,South Africa,2351
+386,Giappone,5
+387,République Tchèque,1
+388,Burkina Faso,1
+389,Bermuda,5
+390,Japão,7
+391,Bulgarien,1
+392,Bahrain,140
+393,Polonia,15
+394,Aserbaidschan,2
+395,Colombia,1420
+396,Frankrijk,4
+397,Hungary,17
+398,"Virgin Islands, U.S.",7
+399,Democratic Republic of Congo,8
+400,Pakistan,697
+401,Republic of Slovenia,13
+402,日本,6626
+403,Vatican City,1
+404,Guinea Bissau,1
+405,سلطنة عمان,155
+406,Ägypten,2
+407,Ungheria,1
+408,United Kingdom,8050
+409,Moldova,5
+410,Syrian Arab Republic,9
+411,Slovak Republic,10
+412,Vietnam,34
+413,De Forente Stater,2
+414,Niederlande,2
+415,Mali,9
+416,Suecia,4
+417,Ucrania,1
+418,Slovenská republika,8
+419,Japón,7
+420,Spagna,18
+421,Amerikas förenta stater,1
